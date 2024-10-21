@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Oldenburg&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+  background-color: darkgray;
+  cursor: url(images/sword.png), pointer;
+}
+
+
+.white{
+    font-family:  "MedievalSharp";
+    color: cornsilk;
+    font-size: 30px;
+}
+
+p::first-letter{
+    color:firebrick;
+    font-family: bold;
+    
+}
